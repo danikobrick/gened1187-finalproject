@@ -11,6 +11,6 @@ Below is a description of each notebook and the sequence to run them in:
 1. FER_data.ipynb: contains data retrieval, basic EDA, data processing
 2. FER_CNN.ipynb: contains Baseline CNN model (with data augmentation) and gender bias analysis
 3. FER_VGG_cyclical.ipynb: contains final VGG_cyclical model and gender bias analysis
-4. FER_OTHER_models: contains autoencoder, ResNet, basic VGG, and other forms of VGG fine-tuned models
+4. FER_OTHER_models.ipynb: contains autoencoder, ResNet, basic VGG, and other forms of VGG fine-tuned models
 
 Run the FER_data notebook first to download the data into your Drive, then you can run notebooks 2-4.
