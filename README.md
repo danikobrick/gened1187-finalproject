@@ -15,4 +15,8 @@ Below is a description of each notebook and the sequence to run them in:
 
 Run the FER_data notebook first to download the data into your Drive, then you can run notebooks 2-4.
 
-The fer-2013 zip contains the fer-2013 folder with all of the data from processing, the best checkpoints, and the stored paths. This is essentially what would be created when you run all the code. You can upload this folder to your Drive, and that way the code can use the cached paths. The models, however, would still take a long time to run.
+
+
+Here is the link to my Google Drive fer-2013 folder with all of the data from processing, the best checkpoints, and the stored paths: https://drive.google.com/drive/folders/1YdUO4EJAdrtRfBE0zwvF0KdrjEXcNHcA?usp=sharing
+
+This is essentially what would be created when you run all the code. You can make a copy of this folder to your Drive (might need to download and reupload), and that way the code can use the cached paths. The models, however, would still take a long time to run. I tried to ZIP the folder and add to GitHub but the ZIP file is still too large. Using this folder is not necessary since running the code will create all of these files anyways.
