@@ -2,7 +2,7 @@
 Repository for Dani Kobrick's GENED1187 Final Project
 
 
-All Jupyter notebooks were created in and meant to be run in Google Colab. You will need to accept the Google Drive mount to allow it to edit your drive. Running the code will create files to save the FER2013 dataset, the processed FER2013 dataset with only adults, filepaths for best checkpoints, and other forms of results. All files will appear in folders, and they will be saved to the home of your Google Drive directory.
+All Jupyter notebooks were created in and meant to be run in Google Colab. You will need to accept the Google Drive mount to allow it to edit your drive. Running the code will create files to save the FER2013 dataset, the processed FER2013 dataset with only adults, filepaths for best checkpoints, and other forms of results. All files will appear in folders, and they will be saved to a folder called fer-project that will appear in the home of your Google Drive directory.
 
 It is recommended to run these Jupyter notebooks on GPU, such as G4. Note -- the VGG models in particular can take an hour or more to train. 
 
